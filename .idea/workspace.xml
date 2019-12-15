@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f8987a8-eec6-40b7-a368-6a4aaaa94afa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1V0VazUwkiUU5HlyYloBnxWxjL4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="spark-kafka-scala" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="-usejavacp" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spark-kafka-scala" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-kafka-scala [file:/home/jr/Documents/spark-kafka-scala/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-kafka-scala-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3152699191516" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3115522072" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="882899147" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f8987a8-eec6-40b7-a368-6a4aaaa94afa" name="Default Changelist" comment="" />
+      <created>1576390067110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576390067110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576391995942">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1576391995942" />
+    <state width="1320" height="253" key="GridCell.Tab.0.bottom" timestamp="1576392033021">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576392033021" />
+    <state width="1320" height="253" key="GridCell.Tab.0.center" timestamp="1576392033020">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576392033020" />
+    <state width="1320" height="253" key="GridCell.Tab.0.left" timestamp="1576392033020">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576392033020" />
+    <state width="1320" height="253" key="GridCell.Tab.0.right" timestamp="1576392033021">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576392033021" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576392658801">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576392658801" />
+  </component>
+</project>
